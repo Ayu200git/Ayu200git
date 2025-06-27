@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects related to Android Development and Web Development. and I also have deep knowledge in Data Analytics so,i am looking for Data Analysis open sourse project for contribute to it.
 
-📫 How to reach me: Feel free to drop me an email at ayushks2805@gmail.com or connect with me on LinkedIn  linkedin.com/in/ayta-bbb9811b4 .
+📫 How to reach me: Feel free to drop me an email at ayushks2805@gmail.com or connect with me on LinkedIn inkedin.com/in/ayta-bbb9811b4 .
 
 😄 Pronouns:  He/Him
 
