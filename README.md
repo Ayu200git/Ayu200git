@@ -10,7 +10,7 @@
 
 😄 Pronouns:  He/Him
 
-⚡ Fun fact: I enjoy the solving critical aptitude problems and think about the real worlsd scenerio based problems.    
+⚡ Fun fact: I enjoy the solving critical aptitude problems and think about the real worlsd scenerio based problems. 
 
 <!---
 Ayu200git/Ayu200git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
