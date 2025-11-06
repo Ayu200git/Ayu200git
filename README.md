@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Android Development and software Development Tevhnologies to enhance my skills.
 
-💞️ I’m looking to collaborate on open-source projects related to Android Development and Web Development. and I also have deep knowledge in Data Analytics so,i am looking for Data Analysis open sourse project for contribute to it.
+💞️ I’m looking to collaborate on open-source projects related to Web Development.  
 
 📫 How to reach me: Feel free to drop me an email at ayushks2805@gmail.com or connect with me on LinkedIn inkedin.com/in/ayta-bbb9811b4 .
 
