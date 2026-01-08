@@ -1,4 +1,4 @@
-👋 Hi, I’m @Ayu200git! Welcome to my GitHub profile.
+👋 Hi, I’m Ayush Gupta Welcome to my GitHub profile.
 
 👀 I’m interested in exploring new technologies and building innovative solutions for real world problems.
 
@@ -10,7 +10,7 @@
 
 😄 Pronouns:  He/Him
 
-⚡ Fun fact: I enjoy the solving critical aptitude problems and think about the real worlsd scenerio based problems. 
+⚡ Fun fact: I enjoy the solving critical aptitude problems and think about the real world scenerio based problems. 
 
 <!---
 Ayu200git/Ayu200git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
