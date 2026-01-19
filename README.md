@@ -2,7 +2,7 @@
 
 👀 I’m interested in exploring new technologies and building innovative solutions for real world problems.
 
-🌱 I’m currently learning Android Development and software Development Tevhnologies to enhance my skills.
+🌱 I’m currently learning software Development Tevhnologies (like web development - Full Stack development) to enhance my skills.
 
 💞️ I’m looking to collaborate on open-source projects related to Web Development.  
 
