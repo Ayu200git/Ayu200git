@@ -1,4 +1,5 @@
 👋 Hi, I’m Ayush Gupta Welcome to my GitHub profile.
+I am currently Full Stack Intern at @OnGraph Technologies Pvt. Ltd. Noida.
 
 👀 I’m interested in exploring new technologies and building innovative solutions for real world problems.
 
