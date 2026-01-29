@@ -7,7 +7,7 @@ I am currently Full Stack Intern at @OnGraph Technologies Pvt. Ltd. Noida.
 
 💞️ I’m looking to collaborate on open-source projects related to Web Development.  
 
-📫 How to reach me: Feel free to drop me an email at ayushks2805@gmail.com or connect with me on LinkedIn inkedin.com/in/ayta-bbb9811b4 or check out my portfolio website https://www.ayushgupta.pro/.
+📫 How to reach me: Feel free to drop me an email at ayushks2805@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/ayta-bbb9811b4/ or check out my portfolio website https://www.ayushgupta.pro/.
 
 😄 Pronouns:  He/Him
 
