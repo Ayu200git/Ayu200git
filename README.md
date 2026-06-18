@@ -43,66 +43,71 @@
 <br clear="right"/>
 
 ---
+ ## ⚡ Tech Arsenal
 
-# ⚡ Frontend
+### 🎨 Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-# ⚙️ Backend
+---
+
+### ⚙️ Backend
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge"/>
-
- 
-
-<img src="https://img.shields.io/badge/Monorepo-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Monorepo-0F172A?style=for-the-badge&logoColor=white"/>
 
 </p>
 
-# 🗄️ Database
+---
+
+### 🗄️ Database
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+
 </p>
 
-# 🔐 Auth & CMS
+---
+
+### 🔐 Authentication & CMS
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge"/>
 
- 
-
 <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge"/>
 
 </p>
 
-# 🤖 AI & Integrations
+---
+
+### 🤖 AI & Integrations
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AI_Integrations-111827?style=for-the-badge"/>
-
- 
 
 <img src="https://img.shields.io/badge/Tavus-7C3AED?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/AI_Integrations-111827?style=for-the-badge"/>
 
-# 🛠️ Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
 ---
+
+### 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+
+</p>
 
 # 📊 GitHub Analytics
 
