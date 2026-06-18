@@ -1,25 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Ayush%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=Ayush%20Gupta&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20•%20Next.js%20•%20Node.js&descAlignY=62"/>
 
 <br/>
 
-<a href="mailto:ayushks2805@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Hono+%7C+PostgreSQL+%7C+MongoDB;AI+Integrations+%7C+Tavus;Building+Scalable+Applications" />
 
- 
+<br/><br/>
+
+<a href="mailto:ayushks2805@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF5F5F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b"/>
+</a>
 
 <a href="https://www.linkedin.com/in/ayta-bbb9811b4">
-<img src="https://img.shields.io/badge/LinkedIn-4F8CFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b"/>
 </a>
 
- 
-
 <a href="https://www.ayushgupta.pro">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b"/>
 </a>
 
 </div>
@@ -30,38 +28,75 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-* 💼 Full Stack Developer Intern @ OnGraph Technologies
-* 🌱 Currently learning DSA, System Design & Advanced Full Stack Development
-* 🤖 Exploring AI, Automation & Modern Web Technologies
-* 🎯 Goal: Software Engineer at a Product-Based Company
-* ⚡ Passionate about solving real-world problems with technology
-* 🤝 Open to collaborating on Full Stack & Open Source Projects
+💼 Full Stack Developer Intern @ OnGraph Technologies
+
+⚡ Building scalable web applications using React, Next.js, Node.js & Hono
+
+🤖 Working with AI Integrations, Tavus & Modern SaaS Architectures
+
+🏗️ Interested in Monorepo Architecture, System Design & Scalable Systems
+
+🎯 Goal: Software Engineer at a Product-Based Company
+
+🌱 Currently learning DSA & Advanced Backend Engineering
 
 <br clear="right"/>
 
 ---
 
-# ⚡ Tech Arsenal
-
-### 🎨 Frontend
+# ⚡ Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend
+# ⚙️ Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge"/>
+
+ 
+
+<img src="https://img.shields.io/badge/Monorepo-111827?style=for-the-badge"/>
+
 </p>
 
-### 🛠️ Tools
+# 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+# 🔐 Auth & CMS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge"/>
+
+ 
+
+<img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge"/>
+
+</p>
+
+# 🤖 AI & Integrations
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI_Integrations-111827?style=for-the-badge"/>
+
+ 
+
+<img src="https://img.shields.io/badge/Tavus-7C3AED?style=for-the-badge"/>
+
+</p>
+
+# 🛠️ Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
@@ -69,7 +104,7 @@
 
 ---
 
-# 📊 Development Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -89,7 +124,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayu200git&theme=tokyo-night"/>
@@ -99,42 +134,35 @@
 
 # 🚀 Featured Projects
 
-| Project                    | Description                           | Tech                    |
-| -------------------------- | ------------------------------------- | ----------------------- |
-| 🏨 StayEase Hotel Booking  | Full Stack Hotel Reservation Platform | React, Node.js, MongoDB |
-| 🌦️ Climate Dashboard      | Real-time Weather Forecast App        | Next.js, TypeScript     |
-| 🎵 RhythmNest              | Music Streaming UI Application        | React                   |
-| 🤖 GitHub Profile Analyzer | Analyze GitHub Users & Repositories   | TypeScript              |
+| Project                    | Tech Stack                |
+| -------------------------- | ------------------------- |
+| 🏨 StayEase Hotel Booking  | React • Node.js • MongoDB |
+| 🌦️ Climate Dashboard      | Next.js • TypeScript      |
+| 🎵 RhythmNest              | React                     |
+| 🤖 GitHub Profile Analyzer | TypeScript • APIs         |
+| 🎥 Tavus AI Project        | Tavus • AI Integration    |
 
 ---
 
-# 🤝 Let's Connect
-
 <div align="center">
+
+### 🤝 Let's Connect
 
 <a href="mailto:ayushks2805@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://img.shields.io/badge/Email-FF5F5F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b"/>
 </a>
-
-   
 
 <a href="https://www.linkedin.com/in/ayta-bbb9811b4">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b"/>
 </a>
-
-   
 
 <a href="https://www.ayushgupta.pro">
-<img src="https://img.icons8.com/fluency/48/domain.png"/>
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ayu200git&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Ayu200git&label=Profile+Views&color=3B82F6&style=for-the-badge"/>
 
 </div>
 
