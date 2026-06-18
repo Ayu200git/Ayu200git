@@ -1,19 +1,77 @@
-👋 Hi, I’m Ayush Gupta Welcome to my GitHub profile.
-I am currently Full Stack Intern at @OnGraph Technologies Pvt. Ltd. Noida.
+<h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 
-👀 I’m interested in exploring new technologies and building innovative solutions for real world problems.
 
-🌱 I’m currntly exploring new software Development Tevhnologies to enhance my skills.
+<h3 align="center">Full Stack Developer | React • Next.js • Node.js</h3>
+<img align="right" alt="Coding" width="300"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-💞️ I’m looking to collaborate on open-source projects related to Web Development.  
+<p align="center">
+Building scalable web applications and continuously learning modern technologies 🚀
+</p>
 
-📫 How to reach me: Feel free to drop me an email at ayushks2805@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/ayta-bbb9811b4/ or check out my portfolio website https://www.ayushgupta.pro/.
+<p align="center">
+  <a href="mailto:ayushks2805@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-😄 Pronouns:  He/Him
+  <a href="https://www.linkedin.com/in/ayta-bbb9811b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-⚡ Fun fact: I enjoy the solving critical aptitude problems and think about the real world scenerio based problems. 
+  <a href="https://www.ayushgupta.pro">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<!---
-Ayu200git/Ayu200git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+
+* 💼 Full Stack Developer Intern @ OnGraph Technologies
+* 🌱 Currently Learning DSA, System Design & Advanced Full Stack Development
+* 🤖 Interested in AI, Automation & Scalable Applications
+* 🎯 Goal: Software Engineer at a Product-Based Company
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayu200git&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayu200git&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ayu200git&theme=tokyonight" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏨 Hotel Booking Platform
+
+Full Stack Hotel Reservation System
+
+### 🌦️ Climate Dashboard
+
+Weather Forecast Application built using Next.js
+
+### 🎵 RhythmNest
+
+Music Streaming UI Application
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ayu200git&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
