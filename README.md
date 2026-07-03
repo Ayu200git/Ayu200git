@@ -32,7 +32,7 @@
 
 ⚡ Building scalable web applications using React, Next.js, Node.js & Hono
 
-🤖 Working with AI Integrations, Tavus & Modern SaaS Architectures
+🤖 Working with AI Integrations, Tavus , OpenAI, GEMINI api & Modern SaaS Architectures
 
 🏗️ Interested in Monorepo Architecture, System Design & Scalable Systems
 
