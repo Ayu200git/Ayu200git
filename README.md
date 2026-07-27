@@ -45,6 +45,11 @@
 ---
  ## ⚡ Tech Arsenal
 
+ ### 🎨 Language
+ <p align="center">
+<img src="https://skillicons.dev/icons?i=java" />
+</p>
+
 ### 🎨 Frontend
 
 <p align="center">
